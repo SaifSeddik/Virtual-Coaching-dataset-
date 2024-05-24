@@ -37,3 +37,9 @@ Each person recorded three videos, with each video dedicated to one exercise.
 
 ## Data Sheet
 The data sheet for the dataset is available at the following link: [Data Sheet](https://onedrive.live.com/edit?id=51D3B734B6D340BE!s3876d77599154ad3943d954265313e64&resid=51D3B734B6D340BE!s3876d77599154ad3943d954265313e64&cid=51d3b734b6d340be&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy81MWQzYjczNGI2ZDM0MGJlL0VYWFhkamdWbWROS2xEMlZRbVV4UG1RQkxzXzNCdURYUUNMYW5NejE4QWtUVEE&migratedtospo=true&wdo=2)
+
+## Team Members
+- [Rana Mohamed Zayed](https://github.com/RanaZay)
+- [Saad Eldine Ahmed Saad](https://github.com/SaadElDine/Smart-Home)
+- [Morouge Mahmoud Ghazal](https://github.com/Morougue)
+- [Saif Allah Mohamed Sayed](https://github.com/SaifSeddik)
